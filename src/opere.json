@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "Nome": "La caduta degli angeli ribelli ",
+    "pic": "images/0.jpg",
+    "Anno": 1832,
+    "Autore": "Gustave Dore  ",
+    "Costo": 10
+  },
+  {
+    "id": 1,
+    "Nome": "L'arca",
+    "pic": "images/1.jpg",
+    "Anno": 1833,
+    "Autore": "Gustave Dore",
+    "Costo": 10
+  },
+  {
+    "id": 2,
+    "Nome": "La punizione dei simoniaci",
+    "pic": "images/2.jpg",
+    "Anno": 1832,
+    "Autore": "Gustave Dore",
+    "Costo": 10
+  },
+  {
+    "id": 3,
+    "Nome": "Napoleone abdica a Fontainebleau",
+    "pic": "images/3.jpg",
+    "Anno": 1840,
+    "Autore": "Paul Delaroche",
+    "Costo": 10
+  },
+  {
+    "id": 4,
+    "Nome": "I grifoni di Ascoli",
+    "pic": "images/4.jpg",
+    "Anno": 0,
+    "Autore": "Sconosciuto",
+    "Costo": 10
+  },
+  {
+    "id": 5,
+    "Nome": "Amore",
+    "pic": "images/5.jpg",
+    "Anno": 1989,
+    "Autore": "Keith Haring",
+    "Costo": 10
+  },
+  {
+    "id": 6,
+    "Nome": "Cuore",
+    "pic": "images/6.jpg",
+    "Anno": 1982,
+    "Autore": "Keith Haring",
+    "Costo": 10
+  },
+  {
+    "id": 7,
+    "Nome": "La grande onda di Kanagawa",
+    "pic": "images/7.jpg",
+    "Anno": 1831,
+    "Autore": "Katsushika Hokusai",
+    "Costo": 10
+  },
+  {
+    "id": 8,
+    "Nome": "Viandante sul mare di nebbia",
+    "pic": "images/8.jpg",
+    "Anno": 1818,
+    "Autore": "Caspar David Friedrich",
+    "Costo": 10
+  },
+  {
+    "id": 9,
+    "Nome": "Tancredi, Principe di Galilea",
+    "pic": "images/9.jpg",
+    "Anno": 1840,
+    "Autore": "Merry-Joseph Blonde",
+    "Costo": 10
+  },
+  {
+    "id": 10,
+    "Nome": "Il colosso",
+    "pic": "images/10.jpg",
+    "Anno": 1808,
+    "Autore": "Francisco Goya",
+    "Costo": 10
+  },
+  {
+    "id": 11,
+    "Nome": "Il sabba delle streghe",
+    "pic": "images/11.jpg",
+    "Anno": 1821,
+    "Autore": "Francisco Goya",
+    "Costo": 10
+  },
+  {
+    "id": 12,
+    "Nome": "Autoritratto",
+    "pic": "images/12.jpg",
+    "Anno": 1815,
+    "Autore": "Francisco Goya",
+    "Costo": 10
+  },
+  {
+    "id": 13,
+    "Nome": "Picasso 1",
+    "pic": "images/13.jpg",
+    "Anno": 1930,
+    "Autore": "Pablo Picasso",
+    "Costo": 10
+  },
+  {
+    "id": 14,
+    "Nome": "Picasso 2",
+    "pic": "images/14.jpg",
+    "Anno": 1930,
+    "Autore": "Pablo Picasso",
+    "Costo": 10
+  },
+  {
+    "id": 15,
+    "Nome": "jeanne Hébuterne con cappello e collana",
+    "pic": "images/15.jpg",
+    "Anno": 1917,
+    "Autore": " Amedeo Modigliani",
+    "Costo": 10
+  }
+]
